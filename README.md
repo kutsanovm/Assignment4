@@ -14,6 +14,10 @@ Notes:
 ahhhh i feel like this is fine. this assigment was very confusing but we got it maybe
 love u rene
 <3 (-:
+-Michelle
+
+Everything should be working properly
+-Corey
 
 
 Files:
