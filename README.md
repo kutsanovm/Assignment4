@@ -25,7 +25,10 @@ Student.cpp
 Student.h
 CalculateWait.cpp
 CalculateWait.h
+GenQueue.h
 main.cpp
+ListNode.h
+NaiveList.h
 
 References:
 https://www.includehelp.com/cpp-programs/sort-an-array-in-descending-order.aspx
